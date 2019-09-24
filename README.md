@@ -1,2 +1,2 @@
 # LearningSandbox
-Sandbox repository for learning GIT, you git!
+Sandbox repository for learning GIT, you git!!
